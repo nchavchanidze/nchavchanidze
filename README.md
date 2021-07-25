@@ -57,10 +57,11 @@ At the same time, I started studying Javascript and in a few months I started wo
 
 <div>
 <a href="https://github.com/nchavchanidze">
-<img src="https://github-readme-stats.vercel.app/api?username=nchavchanidze&show_icons=true&bg_color=45,D4C9C9,D4D4C9,C9D4D2,D4C9C9&title_color=222222&icon_color=222222" />
+<img src="https://github-readme-stats.vercel.app/api?username=nchavchanidze&show_icons=true&count_private=true&bg_color=45,D4C9C9,D4D4C9,C9D4D2,D4C9C9&title_color=222222&icon_color=222222" />
 </a>
 </div>
-
+<br>
+<br>
 <div style="margin-top: 50px;">
 <a href="https://github.com/nchavchanidze">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nchavchanidze&layout=compact&bg_color=45,D4C9C9,D4D4C9,C9D4D2,D4C9C9&title_color=222222&card_width=445" />
@@ -80,7 +81,8 @@ At the same time, I started studying Javascript and in a few months I started wo
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nchavchanidze&repo=Food-App-UI&bg_color=45,D4C9C9,D4D4C9,C9D4D2,D4C9C9&title_color=222222&show_owner=true" />
 </a>
 </div>
-
+<br>
+<br>
 <div style="margin-top: 30px; display: flex; justify-content: space-between; align-items: center; flex-direction: row;">
 <a href="https://github.com/nchavchanidze/Weather-App">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
@@ -91,6 +93,8 @@ At the same time, I started studying Javascript and in a few months I started wo
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nchavchanidze&repo=Recipe-Search-App&bg_color=45,D4C9C9,D4D4C9,C9D4D2,D4C9C9&title_color=222222&show_owner=true" />
 </a>
 </div>
+<br>
+<br>
 <div style="margin-top: 30px; display: flex; justify-content: space-between; align-items: center; flex-direction: row;">
 <a href="https://github.com/nchavchanidze/Todo-app">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
