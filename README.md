@@ -26,27 +26,34 @@ At the same time, I started studying Javascript and in a few months I started wo
 
 🚀 **Socials:** <br>
 
-[![Github](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=ffffff&labelColor=black)](https://github.com/nchavchanidze)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-black?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/nikoloztchavtchanidze/)
-[![Linkedin](https://img.shields.io/badge/Facebook-black?logo=FaceBook&logoColor=blue&labelColor=black)](https://www.facebook.com/nikoloztchavtchanidze/)
-[![Linkedin](https://img.shields.io/badge/Spotify-black?logo=Spotify&logoColor=1ed760&labelColor=black)](https://open.spotify.com/user/chavcha2001)
-![Profile views](https://gpvc.arturio.dev/nchavchanidze)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nchavchanidze)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikoloztchavtchanidze/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nikoloztchavtchanidze/)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/chavcha2001)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/392693599474810880)
 
 💻 **Languages and Tools:** 🛠️<br>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
 
-![HTML5](https://img.shields.io/badge/-HTML5-d6522d?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-196ca9?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6)
-![Sass](https://img.shields.io/badge/-Sass-c76b99?style=flat&logo=sass&logoColor=ffffff&labelColor=%23CC6699)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-5b447d?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![JSON](https://img.shields.io/badge/-JSON-e8e8e8?style=flat&logo=JSON&logoColor=222222&labelColor=ffffff)
-![Font Awesome](https://img.shields.io/badge/-font%20awesome-e9e9e9?style=flat&logo=font-awesome&logoColor=339AF0&labelColor=ffffff)
-![Git](https://img.shields.io/badge/-Git-f2f2f2?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-f7f7f7?style=flat&logo=github&logoColor=222222&labelColor=ffffff)
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-0f7cc6?style=flat&logo=visual-studio-code&labelColor=007ACC)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+
+
 
 </div>
 
@@ -76,7 +83,7 @@ At the same time, I started studying Javascript and in a few months I started wo
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nchavchanidze&repo=NTCH.GE&bg_color=45,D4C9C9,D4D4C9,C9D4D2,D4C9C9&title_color=222222&show_owner=true" />
 </a>
-<a style="margin-left: 50px;" href="https://github.com/nchavchanidze/Food-App-UI">
+<a align="right" style="margin-left: 50px;" href="https://github.com/nchavchanidze/Food-App-UI">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nchavchanidze&repo=Food-App-UI&bg_color=45,D4C9C9,D4D4C9,C9D4D2,D4C9C9&title_color=222222&show_owner=true" />
 </a>
@@ -88,7 +95,7 @@ At the same time, I started studying Javascript and in a few months I started wo
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nchavchanidze&repo=Weather-App&bg_color=45,D4C9C9,D4D4C9,C9D4D2,D4C9C9&title_color=222222&show_owner=true" />
 </a>
-<a href="https://github.com/nchavchanidze/Recipe-Search-App">
+<a align="right" href="https://github.com/nchavchanidze/Recipe-Search-App">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nchavchanidze&repo=Recipe-Search-App&bg_color=45,D4C9C9,D4D4C9,C9D4D2,D4C9C9&title_color=222222&show_owner=true" />
 </a>
@@ -100,7 +107,7 @@ At the same time, I started studying Javascript and in a few months I started wo
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nchavchanidze&repo=Todo-app&bg_color=45,D4C9C9,D4D4C9,C9D4D2,D4C9C9&title_color=222222&show_owner=true" />
 </a>
-<a href="https://github.com/nchavchanidze/Discord-Bot">
+<a align="right" href="https://github.com/nchavchanidze/Discord-Bot">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nchavchanidze&repo=Discord-Bot&bg_color=45,D4C9C9,D4D4C9,C9D4D2,D4C9C9&title_color=222222&show_owner=true" />
 </a>
