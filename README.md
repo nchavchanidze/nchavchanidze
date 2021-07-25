@@ -31,6 +31,7 @@ At the same time, I started studying Javascript and in a few months I started wo
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nikoloztchavtchanidze/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/chavcha2001)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/392693599474810880)
+[![Resume](https://img.shields.io/badge/Resume%20🠗-D4C9C9?style=for-the-badge&logo=&logoColor=white)](https://drive.google.com/file/d/1EdraGW7nROiyaYKxfu27nQ40zX93KurW/view?usp=sharing)
 
 💻 **Languages and Tools:** 🛠️<br>
 
