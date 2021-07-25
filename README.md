@@ -9,6 +9,9 @@ as a Front End developer.
 At the same time, I started studying Javascript and in a few months I started working at the **_Ministry of Education, Science, Culture and Sports of Georgia_** as a Front End developer. I was also a **_Junior Front End Lecturer_** at Geolab. I am currently studying React.js and it works quite well.
 <br><br>
 
+
+![image](https://drive.google.com/uc?export=view&id=1h1njf9dfYuQHp9uzyaA1EHmafQRww9Ie)
+
 🥇 **Badges:** <br>
 
 <div>
