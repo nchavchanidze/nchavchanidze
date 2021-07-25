@@ -6,7 +6,7 @@ About 2 years ago I started studying Front End Development. Shortly after
 graduating, I started working remotely in **Prague** for **_Web Technology S.R.O_**
 as a Front End developer.
 
-At the same time, I started studying Javascript and in a few months I started working at the Ministry of Education, Science, Culture and Sports of Georgia as a Front End developer. I was also a Junior Front End Lecturer at Geolab. I am currently studying React.js and it works quite well.
+At the same time, I started studying Javascript and in a few months I started working at the **_Ministry of Education, Science, Culture and Sports of Georgia_** as a Front End developer. I was also a **_Junior Front End Lecturer_** at Geolab. I am currently studying React.js and it works quite well.
 <br><br>
 
 🥇 **Badges:** <br>
