@@ -19,7 +19,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=12&duration=1800&pause=2200&color=F7F7F7&center=false&repeat=false&multiline=true&random=false&width=300&height=25&lines=Languages+and+Tools:)](https://git.io/typing-svg)
 
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: nowrap;">
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
 
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NEXTJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
