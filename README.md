@@ -1,13 +1,13 @@
 <div align="center">
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/nchavchanidze/nchavchanidze/main/yo.gif" alt="Background Image"
   />
 </div>
 
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&duration=1800&pause=2200&color=F7F7F7&center=true&repeat=false&multiline=true&random=false&width=800&lines=Hello%2C+I'm+Nikoloz+Tchavtchanidze)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=11&duration=1500&color=FFFFFF&center=true&multiline=true&repeat=false&random=false&width=800&height=50&lines=Driven+by+a+passion+for+creating+beautiful+and+functional+websites%2C+I'm+a+Front+End+developer+who+is+always+seeking;new+challenges+and+opportunities+to+expand+my+skills.+I+bring+a+creative+and+innovative+approach+to+every+project%2C;constantly+striving+for+excellence+in+every+line+of+code+I+write.)](https://git.io/typing-svg)
-
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=1800&pause=2200&color=F7F7F7&center=true&repeat=false&multiline=true&random=false&width=800&height=25&lines=%5B+Connect+With+Me+%5D)](https://git.io/typing-svg)
 
@@ -51,4 +51,5 @@
 ![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![ADOBE XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
 
+</div>
 </div>
