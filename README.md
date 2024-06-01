@@ -1,7 +1,12 @@
-<div
+<!-- <div
   style="display: block; width: 100%; min-height: 200px; height:100%; background-image: url('https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXFxMWI0d25lOHQ5NGs2emYzaDB0aXQ1MDlzamhqM2RoZXNyYWtwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bcKmIWkUMCjVm/giphy.webp'); background-size: contain; background-position: bottom; background-repeat: no-repeat; margin-bottom: 20px; background-color: #ffffff;"
 >
-</div>
+</div> -->
+<p align="center" style="background-color:#fff;">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXFxMWI0d25lOHQ5NGs2emYzaDB0aXQ1MDlzamhqM2RoZXNyYWtwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bcKmIWkUMCjVm/giphy.webp" alt="Background Image" style="width: 100%; height: 200px; object-fit: contain;"
+  />
+</p>
+
 <div style="margin: 0 auto; max-width:800px; width:100%;">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&duration=2000&pause=2000&color=F7F7F7&center=true&repeat=false&multiline=true&random=false&width=800&lines=Hello%2C+I'm+Nikoloz+Tchavtchanidze)](https://git.io/typing-svg)
