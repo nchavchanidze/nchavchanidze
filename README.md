@@ -1,9 +1,5 @@
-<!-- <div
-  style="display: block; width: 100%; min-height: 200px; height:100%; background-image: url('https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXFxMWI0d25lOHQ5NGs2emYzaDB0aXQ1MDlzamhqM2RoZXNyYWtwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bcKmIWkUMCjVm/giphy.webp'); background-size: contain; background-position: bottom; background-repeat: no-repeat; margin-bottom: 20px; background-color: #ffffff;"
->
-</div> -->
-<p align="center" style="background-color:#fff; width: 100%;">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXFxMWI0d25lOHQ5NGs2emYzaDB0aXQ1MDlzamhqM2RoZXNyYWtwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bcKmIWkUMCjVm/giphy.webp" alt="Background Image" style="width: 200px; object-fit: contain;"
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nchavchanidze/nchavchanidze/main/yo.gif" alt="Background Image"
   />
 </p>
 
