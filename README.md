@@ -5,19 +5,19 @@
 
 <p  align="center" style="margin: 0 auto; max-width:800px; width:100%;">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&duration=2000&pause=2000&color=F7F7F7&center=true&repeat=false&multiline=true&random=false&width=800&lines=Hello%2C+I'm+Nikoloz+Tchavtchanidze)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&duration=1800&pause=2200&color=F7F7F7&center=true&repeat=true&multiline=true&random=false&width=800&lines=Hello%2C+I'm+Nikoloz+Tchavtchanidze)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=11&duration=2000&color=FFFFFF&center=true&multiline=true&repeat=false&random=false&width=800&height=50&lines=Driven+by+a+passion+for+creating+beautiful+and+functional+websites%2C+I'm+a+Front+End+developer+who+is+always+seeking;new+challenges+and+opportunities+to+expand+my+skills.+I+bring+a+creative+and+innovative+approach+to+every+project%2C;constantly+striving+for+excellence+in+every+line+of+code+I+write.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=11&duration=1500&color=FFFFFF&center=true&multiline=true&repeat=false&random=false&width=800&height=50&lines=Driven+by+a+passion+for+creating+beautiful+and+functional+websites%2C+I'm+a+Front+End+developer+who+is+always+seeking;new+challenges+and+opportunities+to+expand+my+skills.+I+bring+a+creative+and+innovative+approach+to+every+project%2C;constantly+striving+for+excellence+in+every+line+of+code+I+write.)](https://git.io/typing-svg)
 
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=12&duration=2000&pause=2000&color=F7F7F7&center=false&repeat=false&multiline=true&random=false&width=300&height=25&lines=Connect+with+me:)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=12&duration=1800&pause=2200&color=F7F7F7&center=false&repeat=true&multiline=true&random=false&width=300&height=25&lines=Connect+with+me:)](https://git.io/typing-svg)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikoloztchavtchanidze/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nchavchanidze)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikolozchavchanidze@gmail.com)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=12&duration=2000&pause=2000&color=F7F7F7&center=false&repeat=false&multiline=true&random=false&width=300&height=25&lines=Languages+and+Tools:)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=12&duration=1800&pause=2200&color=F7F7F7&center=false&repeat=true&multiline=true&random=false&width=300&height=25&lines=Languages+and+Tools:)](https://git.io/typing-svg)
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: nowrap;">
 
