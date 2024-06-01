@@ -1,5 +1,5 @@
 <div
-  style="display: block; width: 100%; min-height: 200px; height:100%; backgound-color: #000; background-image: url('https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXFxMWI0d25lOHQ5NGs2emYzaDB0aXQ1MDlzamhqM2RoZXNyYWtwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bcKmIWkUMCjVm/giphy.webp'); background-size: contain; background-position: bottom; background-repeat: no-repeat; margin-bottom: 20px; background-color: #ffffff;"
+  style="display: block; width: 100%; min-height: 200px; height:100%; background-image: url('https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXFxMWI0d25lOHQ5NGs2emYzaDB0aXQ1MDlzamhqM2RoZXNyYWtwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bcKmIWkUMCjVm/giphy.webp'); background-size: contain; background-position: bottom; background-repeat: no-repeat; margin-bottom: 20px; background-color: #ffffff;"
 >
 </div>
 <div style="margin: 0 auto; max-width:800px; width:100%;">
@@ -7,8 +7,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&duration=2000&pause=2000&color=F7F7F7&center=true&repeat=false&multiline=true&random=false&width=800&lines=Hello%2C+I'm+Nikoloz+Tchavtchanidze)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=11&duration=2000&color=FFFFFF&center=true&multiline=true&repeat=false&random=false&width=800&height=50&lines=Driven+by+a+passion+for+creating+beautiful+and+functional+websites%2C+I'm+a+Front+End+developer+who+is+always+seeking;new+challenges+and+opportunities+to+expand+my+skills.+I+bring+a+creative+and+innovative+approach+to+every+project%2C;constantly+striving+for+excellence+in+every+line+of+code+I+write.)](https://git.io/typing-svg)
-</div>
 
+</div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=12&duration=2000&pause=2000&color=F7F7F7&center=false&repeat=false&multiline=true&random=false&width=300&height=25&lines=Connect+with+me:)](https://git.io/typing-svg)
 
