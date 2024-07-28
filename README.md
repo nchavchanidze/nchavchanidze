@@ -7,7 +7,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&duration=1800&pause=2200&color=F7F7F7&center=true&repeat=false&multiline=true&random=false&width=800&lines=Hello%2C+I'm+Nikoloz+Tchavtchanidze)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=11&duration=1500&color=FFFFFF&center=true&multiline=true&repeat=false&random=false&width=800&height=50&lines=Driven+by+a+passion+for+creating+beautiful+and+functional+websites%2C+I'm+a+Front+End+developer+who+is+always+seeking;new+challenges+and+opportunities+to+expand+my+skills.+I+bring+a+creative+and+innovative+approach+to+every+project%2C;constantly+striving+for+excellence+in+every+line+of+code+I+write.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=11&duration=1500&color=FFFFFF&center=true&multiline=true&repeat=false&random=false&width=800&height=50&lines=Driven+by+a+passion+for+creating+beautiful+and+functional+websites%2C+I'm+a+Software+Engineer+who+is+always+seeking;new+challenges+and+opportunities+to+expand+my+skills.+I+bring+a+creative+and+innovative+approach+to+every+project%2C;constantly+striving+for+excellence+in+every+line+of+code+I+write.)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=1800&pause=2200&color=F7F7F7&center=true&repeat=false&multiline=true&random=false&width=800&height=25&lines=%5B+Connect+With+Me+%5D)](https://git.io/typing-svg)
 
@@ -27,6 +27,9 @@
 ![NEXTJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![REACTNATIVE](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![EXPO](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![NODEJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![EXPRESS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MONGODB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![BASH](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
