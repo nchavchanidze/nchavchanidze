@@ -7,7 +7,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&duration=1800&pause=2200&color=F7F7F7&center=true&repeat=false&multiline=true&random=false&width=800&lines=Hello%2C+I'm+Nikoloz+Tchavtchanidze)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=11&duration=1500&color=FFFFFF&center=true&multiline=true&repeat=false&random=false&width=800&height=50&lines=Driven+by+a+passion+for+creating+beautiful+and+functional+websites%2C+I'm+a+Software+Engineer+who+is+always+seeking;new+challenges+and+opportunities+to+expand+my+skills.+I+bring+a+creative+and+innovative+approach+to+every+project%2C;constantly+striving+for+excellence+in+every+line+of+code+I+write.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=11&duration=1500&color=FFFFFF&center=true&multiline=true&repeat=false&random=false&width=800&height=50&lines=Driven+by+a+passion+for+creating+beautiful+and+functional+websites%2C+I'm+a+Full+Stack+Developer+who+is+always+seeking;new+challenges+and+opportunities+to+expand+my+skills.+I+bring+a+creative+and+innovative+approach+to+every+project%2C;constantly+striving+for+excellence+in+every+line+of+code+I+write.)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=1800&pause=2200&color=F7F7F7&center=true&repeat=false&multiline=true&random=false&width=800&height=25&lines=%5B+Connect+With+Me+%5D)](https://git.io/typing-svg)
 
@@ -32,6 +32,7 @@
 ![MONGODB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![SOCKETIO](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![BASH](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
