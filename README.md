@@ -18,7 +18,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikolozchavchanidze@gmail.com)
 
 </div>
-
+<!-- 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=1800&pause=2200&color=F7F7F7&center=true&repeat=false&multiline=true&random=false&width=800&height=25&lines=%5B+Languages+%26+Tools+%5D)](https://git.io/typing-svg)
 
 <div align="center">
@@ -56,5 +56,5 @@
 ![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![ADOBE XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
 
-</div>
+</div> -->
 </div>
